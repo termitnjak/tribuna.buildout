@@ -7,3 +7,5 @@ develop-eggs
 include
 lib
 local
+eggs
+downloads
